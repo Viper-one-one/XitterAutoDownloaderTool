@@ -1,0 +1,1 @@
+"""XitterAutoDownloaderTool core package."""
